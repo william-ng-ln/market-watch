@@ -1,36 +1,1342 @@
 [
-    {"company_name": "Fujikura Ltd.", "quote": "5803.T", "threshold": 5},
-    {"company_name": "Harmonic Drive Systems Inc.", "quote": "6324.T", "threshold": 5},
-    {"company_name": "Mitsubishi UFJ Financial Group, Inc.", "quote": "8306.T", "threshold": 5},
-    {"company_name": "Sumitomo Mitsui Financial Group, Inc.", "quote": "8316.T", "threshold": 5},
-    {"company_name": "Mizuho Financial Group, Inc.", "quote": "8411.T", "threshold": 5},
-    {"company_name": "Toyota Motor Corporation", "quote": "7203.T", "threshold": 5},
-    {"company_name": "Honda Motor Co., Ltd.", "quote": "7267.T", "threshold": 5},
-    {"company_name": "Nissan Motor Co., Ltd.", "quote": "7201.T", "threshold": 5},
-    {"company_name": "Mitsubishi Motors Corporation", "quote": "7211.T", "threshold": 5},
-    {"company_name": "Mazda Motor Corporation", "quote": "7261.T", "threshold": 5},
-    {"company_name": "Subaru Corporation", "quote": "7270.T", "threshold": 5},
-    {"company_name": "NIKKEI 225 Index", "quote": "^N225", "threshold": 1},
-    {"company_name": "Advantest Corporation", "quote": "6857.T", "threshold": 5},
-    {"company_name": "Fanuc Corporation", "quote": "6954.T", "threshold": 5},
-    {"company_name": "Fast Retailing Co., Ltd.", "quote": "9983.T", "threshold": 5},
-    {"company_name": "Furukawa Electric Co., Ltd.", "quote": "5801.T", "threshold": 5},
-    {"company_name": "Sumitomo Electric Industries, Ltd.", "quote": "5802.T", "threshold": 5},
-    {"company_name": "Rakuten Group, Inc.", "quote": "4755.T", "threshold": 5},
-    {"company_name": "ASICS Corporation", "quote": "7936.T", "threshold": 5},
-    {"company_name": "Resona Holdings, Inc.", "quote": "8308.T", "threshold": 5},
-    {"company_name": "Nomura Holdings, Inc.", "quote": "8604.T", "threshold": 5},
-    {"company_name": "Daiwa Securities Group Inc.", "quote": "8601.T", "threshold": 5},
-    {"company_name": "Tokyo Electric Power Company Holdings (TEPCO)", "quote": "9501.T", "threshold": 5},
-    {"company_name": "KDDI Corporation", "quote": "9433.T", "threshold": 5},
-    {"company_name": "Sharp Corporation", "quote": "6753.T", "threshold": 5},
-    {"company_name": "Nidec Corporation", "quote": "6594.T", "threshold": 5},
-    {"company_name": "Mitsubishi Heavy Industries (MHI)", "quote": "7011.T", "threshold": 5},
-    {"company_name": "Kawasaki Heavy Industries", "quote": "7012.T", "threshold": 5},
-    {"company_name": "NEC Corporation", "quote": "6701.T", "threshold": 5},
-    {"company_name": "IHI Corporation", "quote": "7013.T", "threshold": 5},
-    {"company_name": "Fujitsu Limited", "quote": "6702.T", "threshold": 5},
-    {"company_name": "Hitachi Ltd.", "quote": "6501.T", "threshold": 5},
-    {"company_name": "Sumitomo Heavy Industries", "quote": "6302.T", "threshold": 5},
-    {"company_name": "S&P 500 Index", "quote": "^GSPC", "threshold": 1}
+    {
+        "company_name": "Fujikura Ltd.",
+        "quote": "5803.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Harmonic Drive Systems Inc.",
+        "quote": "6324.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Mitsubishi UFJ Financial Group, Inc.",
+        "quote": "8306.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Sumitomo Mitsui Financial Group, Inc.",
+        "quote": "8316.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Mizuho Financial Group, Inc.",
+        "quote": "8411.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Toyota Motor Corporation",
+        "quote": "7203.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Honda Motor Co., Ltd.",
+        "quote": "7267.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Nissan Motor Co., Ltd.",
+        "quote": "7201.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Mitsubishi Motors Corporation",
+        "quote": "7211.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Mazda Motor Corporation",
+        "quote": "7261.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Subaru Corporation",
+        "quote": "7270.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "NIKKEI 225 Index",
+        "quote": "^N225",
+        "threshold": 1
+    },
+    {
+        "company_name": "Advantest Corporation",
+        "quote": "6857.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Fanuc Corporation",
+        "quote": "6954.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Fast Retailing Co., Ltd.",
+        "quote": "9983.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Furukawa Electric Co., Ltd.",
+        "quote": "5801.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Sumitomo Electric Industries, Ltd.",
+        "quote": "5802.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Rakuten Group, Inc.",
+        "quote": "4755.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "ASICS Corporation",
+        "quote": "7936.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Resona Holdings, Inc.",
+        "quote": "8308.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Nomura Holdings, Inc.",
+        "quote": "8604.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Daiwa Securities Group Inc.",
+        "quote": "8601.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Tokyo Electric Power Company Holdings (TEPCO)",
+        "quote": "9501.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "KDDI Corporation",
+        "quote": "9433.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Sharp Corporation",
+        "quote": "6753.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Nidec Corporation",
+        "quote": "6594.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Mitsubishi Heavy Industries (MHI)",
+        "quote": "7011.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Kawasaki Heavy Industries",
+        "quote": "7012.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "NEC Corporation",
+        "quote": "6701.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "IHI Corporation",
+        "quote": "7013.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Fujitsu Limited",
+        "quote": "6702.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Hitachi Ltd.",
+        "quote": "6501.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Sumitomo Heavy Industries",
+        "quote": "6302.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "S&P 500 Index",
+        "quote": "^GSPC",
+        "threshold": 1
+    },
+    {
+        "industry": "Pharmaceuticals",
+        "company_name": "KYOWA KIRIN CO., LTD.",
+        "quote": "4151.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Pharmaceuticals",
+        "company_name": "TAKEDA PHARMACEUTICAL CO., LTD.",
+        "quote": "4502.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Pharmaceuticals",
+        "company_name": "ASTELLAS PHARMA INC.",
+        "quote": "4503.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Pharmaceuticals",
+        "company_name": "SUMITOMO PHARMA CO., LTD.",
+        "quote": "4506.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Pharmaceuticals",
+        "company_name": "SHIONOGI & CO., LTD.",
+        "quote": "4507.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Pharmaceuticals",
+        "company_name": "CHUGAI PHARMACEUTICAL CO., LTD.",
+        "quote": "4519.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Pharmaceuticals",
+        "company_name": "EISAI CO., LTD.",
+        "quote": "4523.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Pharmaceuticals",
+        "company_name": "DAIICHI SANKYO CO., LTD.",
+        "quote": "4568.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Pharmaceuticals",
+        "company_name": "OTSUKA HOLDINGS CO., LTD.",
+        "quote": "4578.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "MINEBEA MITSUMI INC.",
+        "quote": "6479.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "MITSUBISHI ELECTRIC CORP.",
+        "quote": "6503.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "FUJI ELECTRIC CO., LTD.",
+        "quote": "6504.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "YASKAWA ELECTRIC CORP.",
+        "quote": "6506.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "SOCIONEXT INC.",
+        "quote": "6526.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "OMRON CORP.",
+        "quote": "6645.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "GS YUASA CORP.",
+        "quote": "6674.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "RENESAS ELECTRONICS CORP.",
+        "quote": "6723.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "SEIKO EPSON CORP.",
+        "quote": "6724.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "PANASONIC HOLDINGS CORP.",
+        "quote": "6752.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "SONY GROUP CORP.",
+        "quote": "6758.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "TDK CORP.",
+        "quote": "6762.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "ALPS ALPINE CO., LTD.",
+        "quote": "6770.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "YOKOGAWA ELECTRIC CORP.",
+        "quote": "6841.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "KEYENCE CORP.",
+        "quote": "6861.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "DENSO CORP.",
+        "quote": "6902.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "LASERTEC CORP.",
+        "quote": "6920.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "CASIO COMPUTER CO., LTD.",
+        "quote": "6952.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "KYOCERA CORP.",
+        "quote": "6971.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "TAIYO YUDEN CO., LTD.",
+        "quote": "6976.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "MURATA MANUFACTURING CO., LTD.",
+        "quote": "6981.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "SCREEN HOLDINGS CO., LTD.",
+        "quote": "7735.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "CANON INC.",
+        "quote": "7751.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "RICOH CO., LTD.",
+        "quote": "7752.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Machinery",
+        "company_name": "TOKYO ELECTRON LTD.",
+        "quote": "8035.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Automobiles & Auto parts",
+        "company_name": "ISUZU MOTORS LTD.",
+        "quote": "7202.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Automobiles & Auto parts",
+        "company_name": "HINO MOTORS, LTD.",
+        "quote": "7205.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Automobiles & Auto parts",
+        "company_name": "SUZUKI MOTOR CORP.",
+        "quote": "7269.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Automobiles & Auto parts",
+        "company_name": "YAMAHA MOTOR CO., LTD.",
+        "quote": "7272.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Precision Instruments",
+        "company_name": "TERUMO CORP.",
+        "quote": "4543.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Precision Instruments",
+        "company_name": "KONICA MINOLTA, INC.",
+        "quote": "4902.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Precision Instruments",
+        "company_name": "DISCO CORP.",
+        "quote": "6146.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Precision Instruments",
+        "company_name": "NIKON CORP.",
+        "quote": "7731.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Precision Instruments",
+        "company_name": "OLYMPUS CORP.",
+        "quote": "7733.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Precision Instruments",
+        "company_name": "HOYA CORP.",
+        "quote": "7741.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Precision Instruments",
+        "company_name": "CITIZEN WATCH CO., LTD.",
+        "quote": "7762.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Communications",
+        "company_name": "NIPPON TELEGRAPH & TELEPHONE CORP.",
+        "quote": "9432.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Communications",
+        "company_name": "SOFTBANK CORP.",
+        "quote": "9434.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Communications",
+        "company_name": "NTT DATA GROUP CORP.",
+        "quote": "9613.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Communications",
+        "company_name": "SOFTBANK GROUP CORP.",
+        "quote": "9984.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Banking",
+        "company_name": "SHIZUOKA FINANCIAL GROUP, INC.",
+        "quote": "5831.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Banking",
+        "company_name": "CONCORDIA FINANCIAL GROUP, LTD.",
+        "quote": "7186.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Banking",
+        "company_name": "AOZORA BANK, LTD.",
+        "quote": "8304.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Banking",
+        "company_name": "SUMITOMO MITSUI TRUST GROUP, INC.",
+        "quote": "8309.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Banking",
+        "company_name": "THE CHIBA BANK, LTD.",
+        "quote": "8331.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Banking",
+        "company_name": "FUKUOKA FINANCIAL GROUP, INC.",
+        "quote": "8354.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Other Financial Services",
+        "company_name": "CREDIT SAISON CO., LTD.",
+        "quote": "8253.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Other Financial Services",
+        "company_name": "ORIX CORP.",
+        "quote": "8591.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Other Financial Services",
+        "company_name": "JAPAN EXCHANGE GROUP, INC.",
+        "quote": "8697.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Insurance",
+        "company_name": "SOMPO HOLDINGS, INC.",
+        "quote": "8630.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Insurance",
+        "company_name": "MS&AD INSURANCE GROUP HOLDINGS, INC.",
+        "quote": "8725.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Insurance",
+        "company_name": "DAI-ICHI LIFE HOLDINGS, INC.",
+        "quote": "8750.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Insurance",
+        "company_name": "TOKIO MARINE HOLDINGS, INC.",
+        "quote": "8766.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Insurance",
+        "company_name": "T&D HOLDINGS, INC.",
+        "quote": "8795.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Fishery",
+        "company_name": "NISSUI CORP.",
+        "quote": "1332.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Foods",
+        "company_name": "NISSHIN SEIFUN GROUP INC.",
+        "quote": "2002.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Foods",
+        "company_name": "MEIJI HOLDINGS CO., LTD.",
+        "quote": "2269.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Foods",
+        "company_name": "NH FOODS LTD.",
+        "quote": "2282.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Foods",
+        "company_name": "SAPPORO HOLDINGS LTD.",
+        "quote": "2501.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Foods",
+        "company_name": "ASAHI GROUP HOLDINGS, LTD.",
+        "quote": "2502.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Foods",
+        "company_name": "KIRIN HOLDINGS CO., LTD.",
+        "quote": "2503.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Foods",
+        "company_name": "KIKKOMAN CORP.",
+        "quote": "2801.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Foods",
+        "company_name": "AJINOMOTO CO., INC.",
+        "quote": "2802.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Foods",
+        "company_name": "NICHIREI CORP.",
+        "quote": "2871.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Foods",
+        "company_name": "JAPAN TOBACCO INC.",
+        "quote": "2914.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Retail",
+        "company_name": "J.FRONT RETAILING CO., LTD.",
+        "quote": "3086.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Retail",
+        "company_name": "ZOZO, INC.",
+        "quote": "3092.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Retail",
+        "company_name": "ISETAN MITSUKOSHI HOLDINGS LTD.",
+        "quote": "3099.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Retail",
+        "company_name": "SEVEN & I HOLDINGS CO., LTD.",
+        "quote": "3382.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Retail",
+        "company_name": "RYOHIN KEIKAKU CO., LTD.",
+        "quote": "7453.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Retail",
+        "company_name": "TAKASHIMAYA CO., LTD.",
+        "quote": "8233.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Retail",
+        "company_name": "MARUI GROUP CO., LTD.",
+        "quote": "8252.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Retail",
+        "company_name": "AEON CO., LTD.",
+        "quote": "8267.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Retail",
+        "company_name": "NITORI HOLDINGS CO., LTD.",
+        "quote": "9843.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Services",
+        "company_name": "M3, INC.",
+        "quote": "2413.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Services",
+        "company_name": "DENA CO., LTD.",
+        "quote": "2432.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Services",
+        "company_name": "NEXON CO., LTD.",
+        "quote": "3659.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Services",
+        "company_name": "NOMURA RESEARCH INSTITUTE, LTD.",
+        "quote": "4307.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Services",
+        "company_name": "DENTSU GROUP INC.",
+        "quote": "4324.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Services",
+        "company_name": "MERCARI, INC.",
+        "quote": "4385.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Services",
+        "company_name": "ORIENTAL LAND CO., LTD.",
+        "quote": "4661.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Services",
+        "company_name": "LY CORP.",
+        "quote": "4689.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Services",
+        "company_name": "TREND MICRO INC.",
+        "quote": "4704.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Services",
+        "company_name": "CYBERAGENT, INC.",
+        "quote": "4751.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Services",
+        "company_name": "RECRUIT HOLDINGS CO., LTD.",
+        "quote": "6098.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Services",
+        "company_name": "JAPAN POST HOLDINGS CO., LTD.",
+        "quote": "6178.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Services",
+        "company_name": "NINTENDO CO., LTD.",
+        "quote": "7974.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Services",
+        "company_name": "TOHO CO., LTD",
+        "quote": "9602.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Services",
+        "company_name": "SECOM CO., LTD.",
+        "quote": "9735.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Services",
+        "company_name": "KONAMI GROUP CORP.",
+        "quote": "9766.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Mining",
+        "company_name": "INPEX CORP.",
+        "quote": "1605.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Textiles & Apparel",
+        "company_name": "TEIJIN LTD.",
+        "quote": "3401.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Textiles & Apparel",
+        "company_name": "TORAY INDUSTRIES, INC.",
+        "quote": "3402.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Pulp & Paper",
+        "company_name": "OJI HOLDINGS CORP.",
+        "quote": "3861.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Chemicals",
+        "company_name": "KURARAY CO., LTD.",
+        "quote": "3405.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Chemicals",
+        "company_name": "ASAHI KASEI CORP.",
+        "quote": "3407.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Chemicals",
+        "company_name": "RESONAC HOLDINGS CORP.",
+        "quote": "4004.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Chemicals",
+        "company_name": "SUMITOMO CHEMICAL CO., LTD.",
+        "quote": "4005.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Chemicals",
+        "company_name": "NISSAN CHEMICAL CORP.",
+        "quote": "4021.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Chemicals",
+        "company_name": "TOSOH CORP.",
+        "quote": "4042.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Chemicals",
+        "company_name": "TOKUYAMA CORP.",
+        "quote": "4043.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Chemicals",
+        "company_name": "DENKA CO., LTD.",
+        "quote": "4061.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Chemicals",
+        "company_name": "SHIN-ETSU CHEMICAL CO., LTD.",
+        "quote": "4063.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Chemicals",
+        "company_name": "MITSUI CHEMICALS, INC.",
+        "quote": "4183.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Chemicals",
+        "company_name": "MITSUBISHI CHEMICAL GROUP CORP.",
+        "quote": "4188.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Chemicals",
+        "company_name": "UBE CORP.",
+        "quote": "4208.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Chemicals",
+        "company_name": "KAO CORP.",
+        "quote": "4452.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Chemicals",
+        "company_name": "FUJIFILM HOLDINGS CORP.",
+        "quote": "4901.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Chemicals",
+        "company_name": "SHISEIDO CO., LTD.",
+        "quote": "4911.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Chemicals",
+        "company_name": "NITTO DENKO CORP.",
+        "quote": "6988.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Petroleum",
+        "company_name": "IDEMITSU KOSAN CO., LTD.",
+        "quote": "5019.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Petroleum",
+        "company_name": "ENEOS HOLDINGS, INC.",
+        "quote": "5020.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Rubber",
+        "company_name": "THE YOKOHAMA RUBBER CO., LTD.",
+        "quote": "5101.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Rubber",
+        "company_name": "BRIDGESTONE CORP.",
+        "quote": "5108.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Glass & Ceramics",
+        "company_name": "AGC INC.",
+        "quote": "5201.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Glass & Ceramics",
+        "company_name": "NIPPON ELECTRIC GLASS CO., LTD.",
+        "quote": "5214.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Glass & Ceramics",
+        "company_name": "TAIHEIYO CEMENT CORP.",
+        "quote": "5233.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Glass & Ceramics",
+        "company_name": "TOKAI CARBON CO., LTD.",
+        "quote": "5301.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Glass & Ceramics",
+        "company_name": "TOTO LTD.",
+        "quote": "5332.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Glass & Ceramics",
+        "company_name": "NGK INSULATORS, LTD.",
+        "quote": "5333.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Steel",
+        "company_name": "NIPPON STEEL CORP.",
+        "quote": "5401.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Steel",
+        "company_name": "KOBE STEEL, LTD.",
+        "quote": "5406.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Steel",
+        "company_name": "JFE HOLDINGS, INC.",
+        "quote": "5411.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Nonferrous Metals",
+        "company_name": "SUMCO CORP.",
+        "quote": "3436.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Nonferrous Metals",
+        "company_name": "MITSUI MINING & SMELTING CO.",
+        "quote": "5706.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Nonferrous Metals",
+        "company_name": "MITSUBISHI MATERIALS CORP.",
+        "quote": "5711.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Nonferrous Metals",
+        "company_name": "SUMITOMO METAL MINING CO., LTD.",
+        "quote": "5713.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Nonferrous Metals",
+        "company_name": "DOWA HOLDINGS CO., LTD.",
+        "quote": "5714.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Trading Companies",
+        "company_name": "SOJITZ CORP.",
+        "quote": "2768.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Trading Companies",
+        "company_name": "ITOCHU CORP.",
+        "quote": "8001.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Trading Companies",
+        "company_name": "MARUBENI CORP.",
+        "quote": "8002.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Trading Companies",
+        "company_name": "TOYOTA TSUSHO CORP.",
+        "quote": "8015.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Trading Companies",
+        "company_name": "MITSUI & CO., LTD.",
+        "quote": "8031.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Trading Companies",
+        "company_name": "SUMITOMO CORP.",
+        "quote": "8053.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Trading Companies",
+        "company_name": "MITSUBISHI CORP.",
+        "quote": "8058.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Construction",
+        "company_name": "COMSYS HOLDINGS CORP.",
+        "quote": "1721.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Construction",
+        "company_name": "TAISEI CORP.",
+        "quote": "1801.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Construction",
+        "company_name": "OBAYASHI CORP.",
+        "quote": "1802.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Construction",
+        "company_name": "SHIMIZU CORP.",
+        "quote": "1803.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Construction",
+        "company_name": "HASEKO CORP.",
+        "quote": "1808.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Construction",
+        "company_name": "KAJIMA CORP.",
+        "quote": "1812.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Construction",
+        "company_name": "DAIWA HOUSE IND. CO., LTD.",
+        "quote": "1925.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Construction",
+        "company_name": "SEKISUI HOUSE, LTD.",
+        "quote": "1928.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Construction",
+        "company_name": "JGC HOLDINGS CORP.",
+        "quote": "1963.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Machinery",
+        "company_name": "THE JAPAN STEEL WORKS, LTD.",
+        "quote": "5631.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Machinery",
+        "company_name": "OKUMA CORP.",
+        "quote": "6103.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Machinery",
+        "company_name": "AMADA CO., LTD.",
+        "quote": "6113.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Machinery",
+        "company_name": "SMC CORP.",
+        "quote": "6273.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Machinery",
+        "company_name": "KOMATSU LTD.",
+        "quote": "6301.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Machinery",
+        "company_name": "HITACHI CONST. MACH. CO., LTD.",
+        "quote": "6305.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Machinery",
+        "company_name": "KUBOTA CORP.",
+        "quote": "6326.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Machinery",
+        "company_name": "EBARA CORP.",
+        "quote": "6361.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Machinery",
+        "company_name": "DAIKIN INDUSTRIES, LTD.",
+        "quote": "6367.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Machinery",
+        "company_name": "NSK LTD.",
+        "quote": "6471.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Machinery",
+        "company_name": "NTN CORP.",
+        "quote": "6472.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Machinery",
+        "company_name": "JTEKT CORP.",
+        "quote": "6473.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Machinery",
+        "company_name": "KANADEVIA CORP.",
+        "quote": "7004.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Other Manufacturing",
+        "company_name": "BANDAI NAMCO HOLDINGS INC.",
+        "quote": "7832.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Other Manufacturing",
+        "company_name": "TOPPAN HOLDINGS INC.",
+        "quote": "7911.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Other Manufacturing",
+        "company_name": "DAI NIPPON PRINTING CO., LTD.",
+        "quote": "7912.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Other Manufacturing",
+        "company_name": "YAMAHA CORP.",
+        "quote": "7951.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Real Estate",
+        "company_name": "TOKYU FUDOSAN HOLDINGS CORP.",
+        "quote": "3289.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Real Estate",
+        "company_name": "MITSUI FUDOSAN CO., LTD.",
+        "quote": "8801.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Real Estate",
+        "company_name": "MITSUBISHI ESTATE CO., LTD.",
+        "quote": "8802.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Real Estate",
+        "company_name": "TOKYO TATEMONO CO., LTD.",
+        "quote": "8804.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Real Estate",
+        "company_name": "SUMITOMO REALTY & DEVELOPMENT CO., LTD.",
+        "quote": "8830.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Railway & Bus",
+        "company_name": "TOBU RAILWAY CO., LTD.",
+        "quote": "9001.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Railway & Bus",
+        "company_name": "TOKYU CORP.",
+        "quote": "9005.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Railway & Bus",
+        "company_name": "ODAKYU ELECTRIC RAILWAY CO., LTD.",
+        "quote": "9007.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Railway & Bus",
+        "company_name": "KEIO CORP.",
+        "quote": "9008.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Railway & Bus",
+        "company_name": "KEISEI ELECTRIC RAILWAY CO., LTD.",
+        "quote": "9009.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Railway & Bus",
+        "company_name": "EAST JAPAN RAILWAY CO.",
+        "quote": "9020.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Railway & Bus",
+        "company_name": "WEST JAPAN RAILWAY CO.",
+        "quote": "9021.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Railway & Bus",
+        "company_name": "CENTRAL JAPAN RAILWAY CO., LTD.",
+        "quote": "9022.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Land Transport",
+        "company_name": "YAMATO HOLDINGS CO., LTD.",
+        "quote": "9064.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Land Transport",
+        "company_name": "NIPPON EXPRESS HOLDINGS, INC.",
+        "quote": "9147.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Marine Transport",
+        "company_name": "NIPPON YUSEN K.K.",
+        "quote": "9101.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Marine Transport",
+        "company_name": "MITSUI O.S.K.LINES, LTD.",
+        "quote": "9104.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Marine Transport",
+        "company_name": "KAWASAKI KISEN KAISHA, LTD.",
+        "quote": "9107.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Air Transport",
+        "company_name": "JAPAN AIRLINES CO., LTD.",
+        "quote": "9201.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Air Transport",
+        "company_name": "ANA HOLDINGS INC.",
+        "quote": "9202.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Warehousing",
+        "company_name": "MITSUBISHI LOGISTICS CORP.",
+        "quote": "9301.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Power",
+        "company_name": "CHUBU ELECTRIC POWER CO., INC.",
+        "quote": "9502.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Electric Power",
+        "company_name": "THE KANSAI ELECTRIC POWER CO., INC.",
+        "quote": "9503.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Gas",
+        "company_name": "TOKYO GAS CO., LTD.",
+        "quote": "9531.T",
+        "threshold": 5
+    },
+    {
+        "industry": "Gas",
+        "company_name": "OSAKA GAS CO., LTD.",
+        "quote": "9532.T",
+        "threshold": 5
+    }
 ]
