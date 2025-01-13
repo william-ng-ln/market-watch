@@ -165,11 +165,6 @@
         "threshold": 5
     },
     {
-        "company_name": "S&P 500 Index",
-        "quote": "^GSPC",
-        "threshold": 1
-    },
-    {
         "industry": "Pharmaceuticals",
         "company_name": "KYOWA KIRIN CO., LTD.",
         "quote": "4151.T",
