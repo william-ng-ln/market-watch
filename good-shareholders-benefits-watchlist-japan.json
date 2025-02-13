@@ -1,0 +1,27 @@
+[
+    {
+        "company_name": "SOFTBANK",
+        "quote": "9434.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "SOFTBANK",
+        "quote": "9434.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Skylark",
+        "quote": "3197.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Yamaha Motor",
+        "quote": "7272.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Create Restaurants Holdings",
+        "quote": "3387.T",
+        "threshold": 5
+    }
+]
