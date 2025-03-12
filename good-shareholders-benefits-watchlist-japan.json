@@ -20,8 +20,18 @@
         "threshold": 5
     },
     {
-        "company_name": "Create Restaurants Holdings",
-        "quote": "3387.T",
+        "company_name": "Oriental Land Co Ltd",
+        "quote": "4661.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "MCDONALD'S HOLDINGS COMPANY(JAPAN), LTD.",
+        "quote": "2702.T",
+        "threshold": 5
+    },
+    {
+        "company_name": "Yamada Holdings",
+        "quote": "9831.T",
         "threshold": 5
     }
 ]
