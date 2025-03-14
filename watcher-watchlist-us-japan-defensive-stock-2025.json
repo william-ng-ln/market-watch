@@ -1,0 +1,177 @@
+[
+    {
+      "industry": "IT Systems Integration, Cloud Services",
+      "company_name": "NEC",
+      "quote": "6701.T",
+      "threshold": 5
+    },
+    {
+      "industry": "IT Services, Modernization of Legacy Systems",
+      "company_name": "Fujitsu",
+      "quote": "6702.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Enterprise Resource Planning (ERP) Systems",
+      "company_name": "Obic",
+      "quote": "4684.T",
+      "threshold": 5
+    },
+    {
+      "industry": "IT Services for SMEs",
+      "company_name": "Otsuka Corporation",
+      "quote": "4768.T",
+      "threshold": 5
+    },
+    {
+      "industry": "SaaS, Invoice Digitization",
+      "company_name": "Raksul",
+      "quote": "4384.T",
+      "threshold": 5
+    },
+    {
+      "industry": "IT System Integration",
+      "company_name": "SCSK",
+      "quote": "9719.T",
+      "threshold": 5
+    },
+    {
+      "industry": "IT Services, System Integration",
+      "company_name": "BIPROGY",
+      "quote": "8056.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Payment Processing Services",
+      "company_name": "GMO Payment Gateway",
+      "quote": "3769.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Disaster Prevention Materials",
+      "company_name": "Maeda Kosen",
+      "quote": "7821.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Foundation Improvement, Port Reconstruction",
+      "company_name": "Futaba Tetora",
+      "quote": "1813.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Water Infrastructure Consulting",
+      "company_name": "NJS",
+      "quote": "2325.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Precast Concrete Products",
+      "company_name": "Nippon Hume",
+      "quote": "5262.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Disaster Prevention Technology",
+      "company_name": "Nihon Kiso Gijutsu",
+      "quote": "1238.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Agricultural Machinery, Water Infrastructure",
+      "company_name": "Kubota",
+      "quote": "6326.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Water Infrastructure",
+      "company_name": "Tsukishima Holdings",
+      "quote": "5363.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Anime Production, IP Management",
+      "company_name": "Toei Animation",
+      "quote": "4816.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Film Production, Distribution, IP Management",
+      "company_name": "Toho",
+      "quote": "9602.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Games, Toys, Entertainment",
+      "company_name": "Bandai Namco Holdings",
+      "quote": "7832.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Gaming, Sports Entertainment",
+      "company_name": "Konami Group",
+      "quote": "9766.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Fan Club Websites",
+      "company_name": "Emup Holdings",
+      "quote": "6086.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Publishing, Gaming, Anime",
+      "company_name": "KADOKAWA",
+      "quote": "9468.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Industrial Robots, Factory Automation",
+      "company_name": "Fanuc",
+      "quote": "6954.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Industrial Robots, Motion Control",
+      "company_name": "Yaskawa Electric",
+      "quote": "6506.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Automated Material Handling Systems",
+      "company_name": "Daifuku",
+      "quote": "6383.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Discount Supermarket Chain",
+      "company_name": "Kobe Bussan",
+      "quote": "3038.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Pharmacy Chain",
+      "company_name": "Sugi Holdings",
+      "quote": "7649.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Bearings, Earthquake Resistance Technology",
+      "company_name": "Oiles Corporation",
+      "quote": "6282.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Rubber Products, Earthquake Resistance Technology",
+      "company_name": "Sumitomo Rubber Industries",
+      "quote": "5110.T",
+      "threshold": 5
+    },
+    {
+      "industry": "Electronics, Entertainment, Gaming",
+      "company_name": "Sony Group",
+      "quote": "6758.T",
+      "threshold": 5
+    }
+  ]
+  
