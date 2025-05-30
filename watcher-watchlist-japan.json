@@ -56,7 +56,7 @@
     },
     {
         "company_name": "NIKKEI 225 Index",
-        "quote": "^N225",
+        "quote": "101.T",
         "threshold": 1
     },
     {
