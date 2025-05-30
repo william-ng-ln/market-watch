@@ -1,37 +1,37 @@
 [
     {
         "company_name": "SOFTBANK",
-        "quote": "9434.T",
+        "quote": "9434",
         "threshold": 5
     },
     {
         "company_name": "SOFTBANK",
-        "quote": "9434.T",
+        "quote": "9434",
         "threshold": 5
     },
     {
         "company_name": "Skylark",
-        "quote": "3197.T",
+        "quote": "3197",
         "threshold": 5
     },
     {
         "company_name": "Yamaha Motor",
-        "quote": "7272.T",
+        "quote": "7272",
         "threshold": 5
     },
     {
         "company_name": "Oriental Land Co Ltd",
-        "quote": "4661.T",
+        "quote": "4661",
         "threshold": 5
     },
     {
         "company_name": "MCDONALD'S HOLDINGS COMPANY(JAPAN), LTD.",
-        "quote": "2702.T",
+        "quote": "2702",
         "threshold": 5
     },
     {
         "company_name": "Yamada Holdings",
-        "quote": "9831.T",
+        "quote": "9831",
         "threshold": 5
     }
 ]
