@@ -1,11 +1,11 @@
 [
   {
-    "company_name": "NEXT FUNDS Gold Price Linked ETF (Trust fee 0.16% annually)",
+    "company_name": "AI-Recommended: NEXT FUNDS Gold Price Linked ETF (Trust fee 0.16% annually)",
     "quote": "1328",
     "threshold": 1
   },
   {
-    "company_name": "SPDR Gold Shares JDR (approx. trust fee 0.4% annually)",
+    "company_name": "AI-Recommended: SPDR Gold Shares JDR (approx. trust fee 0.4% annually)",
     "quote": "1326",
     "threshold": 1
   },
@@ -15,7 +15,7 @@
     "threshold": 1
   },
   {
-    "company_name": "iShares Gold ETF (Trust fee approx. 0.20% annually)",
+    "company_name": "AI-Recommended: iShares Gold ETF (Trust fee approx. 0.20% annually)",
     "quote": "314A",
     "threshold": 1
   },
