@@ -1,0 +1,42 @@
+[
+  {
+    "company_name": "NEXT FUNDS Gold Price Linked ETF (Trust fee 0.16% annually)",
+    "quote": "1328",
+    "threshold": 1
+  },
+  {
+    "company_name": "SPDR Gold Shares JDR (approx. trust fee 0.4% annually)",
+    "quote": "1326",
+    "threshold": 1
+  },
+  {
+    "company_name": "Japan Physical Gold ETF – domestic storage (Trust fee 0.4% annually)",
+    "quote": "1540",
+    "threshold": 1
+  },
+  {
+    "company_name": "iShares Gold ETF (Trust fee approx. 0.20% annually)",
+    "quote": "314A",
+    "threshold": 1
+  },
+  {
+    "company_name": "SPDR Gold ETF (Unhedged, trust fee approx. 0.17% annually)",
+    "quote": "447A",
+    "threshold": 1
+  },
+  {
+    "company_name": "SPDR Gold ETF (Hedged, trust fee approx. 0.17% annually)",
+    "quote": "448A",
+    "threshold": 1
+  },
+  {
+    "company_name": "Global X Gold ETF (Hedged, trust fee approx. 0.1775% annually)",
+    "quote": "424A",
+    "threshold": 1
+  },
+  {
+    "company_name": "Global X Gold ETF (Unhedged, trust fee approx. 0.1775% annually)",
+    "quote": "425A",
+    "threshold": 1
+  }
+]
