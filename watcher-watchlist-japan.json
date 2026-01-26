@@ -453,12 +453,6 @@
     },
     {
         "industry": "Communications",
-        "company_name": "NTT DATA GROUP CORP.",
-        "quote": "9613",
-        "threshold": 5
-    },
-    {
-        "industry": "Communications",
         "company_name": "SOFTBANK GROUP CORP.",
         "quote": "9984",
         "threshold": 5
