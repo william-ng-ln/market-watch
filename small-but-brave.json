@@ -1,0 +1,50 @@
+[
+    {
+        "industry": "Semiconductors-Probe cards trong kiểm tra wafer",
+        "company_name": "日本マイクロ",
+        "quote": "6871",
+        "threshold": 5
+    },
+    {
+        "industry": "Semiconductors-kiểm tra bán dẫn cho AI và máy chủ",
+        "company_name": "Terra Probe",
+        "quote": "6627",
+        "threshold": 5
+    },
+    {
+        "industry": "Semiconductors-hỗ trợ công nghệ đóng gói của TSMC",
+        "company_name": "Shibaura Mechatronics",
+        "quote": "6590",
+        "threshold": 5
+    },
+    {
+        "industry": "Semiconductors-Giải pháp tiết kiệm năng lượng",
+        "company_name": "Dexerials",
+        "quote": "4980",
+        "threshold": 5
+    },
+    {
+        "industry": "Semiconductors-thiết bị nước siêu tinh khiết cho sản xuất chip",
+        "company_name": "Organo",
+        "quote": "6368",
+        "threshold": 5
+    },
+    {
+        "industry": "Semiconductors-thiết bị nước siêu tinh khiết cho sản xuất chip",
+        "company_name": "Nomura Micro Science",
+        "quote": "6254",
+        "threshold": 5
+    },
+    {
+        "industry": "Semiconductors-thiết bị nước siêu tinh khiết cho sản xuất chip",
+        "company_name": "Kurita Kogyo",
+        "quote": "6370",
+        "threshold": 5
+    },
+    {
+        "industry": "Semiconductors-công ty thương mại bán dẫn kết nối công nghệ tiên tiến",
+        "company_name": "Macnica Holdings",
+        "quote": "3132",
+        "threshold": 5
+    }
+]
