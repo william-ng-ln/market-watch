@@ -46,5 +46,11 @@
         "company_name": "Macnica Holdings",
         "quote": "3132",
         "threshold": 5
+    },
+    {
+        "industry": "Semiconductors-nhà sản xuất thống trị thị trường toàn cầu về loại vải sợi thủy tinh đặc biệt, đóng vai trò sống còn trong việc đóng gói các dòng chip trí tuệ nhân tạo (AI) tiên tiến",
+        "company_name": "Nitto Boseki",
+        "quote": "3110",
+        "threshold": 5
     }
 ]
