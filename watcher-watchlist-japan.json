@@ -1332,5 +1332,29 @@
         "company_name": "OSAKA GAS CO., LTD.",
         "quote": "9532",
         "threshold": 5
+    },
+    {
+        "industry": "AI & Semiconductors",
+        "company_name": "Taiyo Yuden",
+        "quote": "6976",
+        "threshold": 5
+    },
+        {
+        "industry": "AI & Semiconductors & Manufacturing",
+        "company_name": "Murata Manufacturing",
+        "quote": "6981",
+        "threshold": 5
+    },
+    {
+        "industry": "AI & Semiconductors & Manufacturing:IC package substrate và printed circuit boards (PCB) mật độ cao",
+        "company_name": "EBIDEN",
+        "quote": "4062",
+        "threshold": 5
+    },
+    {
+        "industry": "công ty hàng đầu tại Nhật Bản về hệ thống camera giám sát trên nền tảng đám mây được sử dụng tại các cửa hàng bán lẻ và công trường xây dựng, với thế mạnh là phân tích hình ảnh có độ chính xác cao nhờ ứng dụng trí tuệ nhân tạo (AI)",
+        "company_name": "Safei",
+        "quote": "4375",
+        "threshold": 5
     }
 ]
